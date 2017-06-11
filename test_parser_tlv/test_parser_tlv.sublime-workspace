@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"rm",
+				"Package Control: Remove Package→删除插件"
+			],
+			[
+				"install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"list",
+				"Package Control: List Packages→列出插件"
+			],
+			[
+				"insa",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"side",
+				"Preferences: Package Control Settings – Default→插件设置 – 默认"
+			],
+			[
+				"insta",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"pcip",
+				"Package Control: List Packages→列出插件"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/E/Program Files (x86)/Sublime Text3/Data/Packages/User/Side Bar.sublime-settings",
+		"/E/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/E/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Program Files (x86)/Sublime Text3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/desktop/windows.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test_parser_tlv.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
